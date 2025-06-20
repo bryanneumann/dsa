@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "dsa"
-include("app", "list", "utilities")
+include("app")
